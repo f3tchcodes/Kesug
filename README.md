@@ -1,5 +1,5 @@
 ### Introduction
-Hi, I'm `f3tch`. About a year ago I was super bored, so I decided to write a **ransomware**. I didn't have sufficient knowledge in C++ so I decided to go with **Python**.
+Hi, I'm `f3tch`. About a year ago I was super bored, so I decided to write a **ransomware**. I didn't have sufficient knowledge and skills in C++ so I decided to go with **Python**.
 
 *Pictures?? Nahh I'm too lazy to add them. And I do not want to run the program again.*
 
