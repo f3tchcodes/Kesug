@@ -36,4 +36,4 @@ Also, I haven't run this program in like a year, and I don't want to. I've alrea
 ### Credits
 > Discord: f3tch
 
-> Instagram: f3tch.h
+> Instagram: nomnomf3tch
